@@ -1,0 +1,38 @@
+/*contact us button*/
+.btn-outline-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #505050;
+    --bs-btn-border-color: #adadad;
+    --bs-btn-hover-color: #505050;
+    --bs-btn-hover-bg: #adadad;
+    --bs-btn-hover-border-color: #ffffff;
+    --bs-btn-focus-shadow-rgb: 13,110,253;
+    --bs-btn-active-color: #adadad;
+    --bs-btn-active-bg: #0d6efd;
+    --bs-btn-active-border-color: #ffffff;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #0d6efd;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #ffffff;
+    --bs-gradient: none;
+    transition-duration: 250ms;
+}
+
+/*appointments button*/
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #505050;
+    --bs-btn-border-color: #adadad;
+    --bs-btn-hover-color: #505050;
+    --bs-btn-hover-bg: #adadad;
+    --bs-btn-hover-border-color: #ffffff;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+    transition-duration: 250ms;
+}
